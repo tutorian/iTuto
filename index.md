@@ -18,5 +18,5 @@ Available soon
 
 ## Download
 
-[Image](https://raw.githubusercontent.com/tutorian/tutorian.github.io/master/Images/Coming-Soon-PNG-830x323.png)
-[GOOGLE](./googleb2698952dd83d9aa.html)
+![Image](https://raw.githubusercontent.com/tutorian/tutorian.github.io/master/Images/Coming-Soon-PNG-830x323.png)
+
