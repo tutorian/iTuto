@@ -6,11 +6,14 @@
 I assume no liability for damages.
 Ich übernehme keine Haftung für Schäden.
 
-Nutzung auf eigender Gefahr!
 Use at your own risk!
+Nutzung auf eigender Gefahr!
+
+Please make a Backup first, before using this Tool!
+Bitte führe zuerst ein Backup durch, bevor du dies nutzt!
 ```
 
 ##Download B1
 
 
-[Testing...]()
+[Fixing Errors...]()
