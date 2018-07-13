@@ -17,11 +17,6 @@ Aktuell ist vorhanden:
 
 
 
-
-
-
-
-
 You want to contact me?
 
 [E-Mail](mailto:herrwindows@icloud.com)
