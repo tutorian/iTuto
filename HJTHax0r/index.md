@@ -11,9 +11,12 @@ Nutzung auf eigender Gefahr!
 
 Please make a Backup first, before using this Tool!
 Bitte führe zuerst ein Backup durch, bevor du dies nutzt!
+
+Only compatible with Windows 7.
+Nur mit Windows 7 kompatibel.
 ```
 
 ##Download B1
 
 
-[Fixing Errors...]()
+[Download Now](https://github.com/tutorian/iTuto/releases/download/Hax0r/Hax0r.exe)
