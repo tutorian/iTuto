@@ -24,8 +24,8 @@ Dein AntiVirus könnte diese Datei als Virus erkennen, Dies ist aber ein Fehler.
 
 [Download Now](https://github.com/tutorian/iTuto/releases/download/Hax0rb2/Hax0r_b2.exe)
 
-```markdown
+
 [Old Versions](https://github.com/tutorian/iTuto/releases)
-```
+
 
 [Go back](https://tutorian.github.io/iTuto)
