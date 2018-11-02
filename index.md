@@ -5,7 +5,7 @@ Willkommen bei **iTuto**.
 
 
 This Website is **under construction**.
-Diese Webseite befindet sich **im Aufbau**.
+Diese Webseite befindet sich **in Aufbau**.
 
 
 Currently available is:
